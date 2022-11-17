@@ -3,7 +3,7 @@
 ## Available on Android / IOS
 
 - Made in Flutter and Supabase<br>
-<a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/MontyDLemon/ecommerce-app/main/ecommerce_screen/flutter.png" width="15%"></a><a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/MontyDLemon/ecommerce-app/00fa246815a32f7309781223e016715969da6994/ecommerce_screen/supabase-logo-icon.svg" width="10%"></a>
+<a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/MontyDLemon/ecommerce-app/main/ecommerce_screen/flutter.png" width="15%"></a><a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/MontyDLemon/ecommerce-app/f8b507e8291d89d44e524f659761444e2fc2620a/ecommerce_screen/supabase-logo-icon.svg" width="10%"></a>
 
 ## Package
 - Provider
