@@ -1,0 +1,18 @@
+
+
+
+
+UI (pagina filtri, carrello)
+
+profilo utente
+
+
+
+aggiungere tabellaa utente su supabase
+
+aggiungere tabella coppia utente-prodotto (quando un utente compra un prodotto)
+
+
+tabella user aggiungere prodotti preferiti? bho vedere sul web coke funge
+
+
